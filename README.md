@@ -19,7 +19,7 @@
   <img src="https://img.shields.io/badge/-CSS-000?style=for-the-badge&logo=css3&color=151515&logoColor=000&labelColor=f28a00">
   <img src="https://img.shields.io/badge/-Python-000?style=for-the-badge&logo=python&color=151515&logoColor=000&labelColor=f28a00">
   <img src="https://img.shields.io/badge/-React-000?style=for-the-badge&logo=react&color=151515&logoColor=000&labelColor=f28a00">
-  <img src="https://img.shields.io/badge/-Next.js-000?style=for-the-badge&logo=next.js&color=151515&logoColor=000&labelColor=f28a00">
+  <img src="https://img.shields.io/badge/-VB.NET-000?style=for-the-badge&logo=next.js&color=151515&logoColor=000&labelColor=f28a00">
 </p>
 
 <br/>
