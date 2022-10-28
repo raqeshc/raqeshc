@@ -1,4 +1,5 @@
 <p align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif">
   <a href="https://github.com/thelearningman">
   <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=thelearningman&show_icons=true&theme=dark&hide_border=true&icon_color=f28a00" />
     <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=thelearningman&theme=dark&hide_border=true" />
@@ -23,3 +24,4 @@
 </p>
 
 <br/>
+
